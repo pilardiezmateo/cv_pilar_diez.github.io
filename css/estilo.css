@@ -226,12 +226,14 @@
   margin-top: 34px;
   margin-bottom: 24px;
 }
-
+#correo{
+  opacity: 0;
+}
 .footer {
     position: relative;
-    background-color: #444545;
+    background-color: #979999;
     padding: 30px 0;
-    color: #fff;
+    color: #242222;
     text-align: center!important;
 }
 
