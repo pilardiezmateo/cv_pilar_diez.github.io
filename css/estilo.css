@@ -217,6 +217,18 @@
     padding: 12px;
     margin: 12px;
 }
+.contacto .registro textarea {
+  background-color: transparent;
+    color: #fff;
+    border: 1px solid #D88634;
+    border-radius: 4px;
+    outline: none;    
+    height: 45px;
+    width: 75%;
+    text-align: left;
+    padding: 12px;
+    margin: 12px;
+}
 .contacto .registro .boton {
   background-color: #484848;
   text-align: center;
