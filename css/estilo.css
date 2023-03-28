@@ -43,22 +43,26 @@
     margin-bottom: 30px;
 }
 
-.acerca .foto .personal-info {
+.acerca .foto #personal_info {
     padding: 25px 25px 10px;
     border: 1px solid #fdd05a;
     border-radius: 4px;
   margin-bottom: 30px;
 }
 
-.acerca .foto .personal-info p {
+.acerca .foto #personal_info p {
   font-size: 15px;
     color: #fff;
     letter-spacing: .4px;
     margin-bottom: 15px;
 }
 
-.acerca .foto .personal-info p span {
+.acerca .foto #personal_info p span {
     font-weight: 600;
+}
+#boton{
+  background-color: #eb9a49;
+  margin-bottom: 15px;
 }
 .estudios_seccion{
   padding-top: 20px;
